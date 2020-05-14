@@ -63,3 +63,15 @@ You may assume that each input would have exactly one solution, and you may not 
 ```Because nums[0] + nums[1] = 2 + 7 = 9,```
 
 ```return [0, 1].```
+
+### 6 Reverse Linked List
+
+Reverse a singly linked list.
+
+Example:
+
+```Input: 1->2->3->4->5->NULL```
+```Output: 5->4->3->2->1->NULL```
+Follow up:
+
+A linked list can be reversed either iteratively or recursively. Could you implement both?
