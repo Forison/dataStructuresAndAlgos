@@ -51,3 +51,15 @@ Given a 2D array (matrix) inputMatrix of integers, create a function spiralCopy 
                          ``` [16,  17,  18,  19,  20] ]```
 
 ``` output: [1, 2, 3, 4, 5, 10, 15, 20, 19, 18, 17, 16, 11, 6, 7, 8, 9, 14, 13, 12]```
+
+### 5 Two sums
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+```Given nums = [2, 7, 11, 15], target = 9,```
+
+```Because nums[0] + nums[1] = 2 + 7 = 9,```
+
+```return [0, 1].```
