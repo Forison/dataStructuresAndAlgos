@@ -30,7 +30,7 @@ Explanation:
 ``` 62 + 82 = 100 ```
 ``` 12 + 02 + 02 = 1 ```
 
-### 3 Array Quadruplet
+### 3. Array Quadruplet
 Given an unsorted array of integers arr and a number s, write a function findArrayQuadruplet that finds four numbers (quadruplet) in arr that sum up to s. Your function should return an array of these numbers in an ascending order. If such a quadruplet doesn’t exist, return an empty array.
 
 Note that there may be more than one quadruplet in arr whose sum is s. You’re asked to return the first one you encounter (considering the results are sorted).
@@ -41,7 +41,7 @@ Explain and code the most efficient solution possible, and analyze its time and 
 
 ```output: [0, 4, 7, 9]```
 
-### 4 Matrix Spiral Copy
+### 4. Matrix Spiral Copy
 
 Given a 2D array (matrix) inputMatrix of integers, create a function spiralCopy that copies inputMatrix’s values into a 1D array in a spiral order, clockwise. Your function then should return that array. Analyze the time and space complexities of your solution.
 
@@ -52,7 +52,7 @@ Given a 2D array (matrix) inputMatrix of integers, create a function spiralCopy 
 
 ``` output: [1, 2, 3, 4, 5, 10, 15, 20, 19, 18, 17, 16, 11, 6, 7, 8, 9, 14, 13, 12]```
 
-### 5 Two sums
+### 5. Two sums
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -64,7 +64,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ```return [0, 1].```
 
-### 6 Reverse Linked List
+### 6. Reverse Linked List
 
 Reverse a singly linked list.
 
