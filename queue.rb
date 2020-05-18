@@ -14,5 +14,5 @@ end
 	 q.enque(23)
 	 q.enque(27)
 	 q.enque(2)
-	 q.dequeue
+	 p q.dequeue
 	 p q.dequeue

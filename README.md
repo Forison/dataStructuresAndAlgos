@@ -196,3 +196,9 @@ Output:
   7     2
  / \   / \
 9   6 3   1
+
+### 12 Queue
+
+Sample questions
+Implement a Queue class from scratch with an existing bug, the bug is that it cannot take more than 5 elements.
+Implement a Queue using two stacks. You may only use the standard push(), pop(), and peek(),Delete_at operations traditionally available to stacks. You do not need to implement the stack yourself (i.e. an array can be used to simulate a stack).
