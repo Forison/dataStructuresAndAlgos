@@ -202,3 +202,16 @@ Output:
 Sample questions
 Implement a Queue class from scratch with an existing bug, the bug is that it cannot take more than 5 elements.
 Implement a Queue using two stacks. You may only use the standard push(), pop(), and peek(),Delete_at operations traditionally available to stacks. You do not need to implement the stack yourself (i.e. an array can be used to simulate a stack).
+
+### Top K Frequent Elements
+
+Given a non-empty array of integers, return the k most frequent elements.
+
+Example 1:
+
+```Input: nums = [1,1,1,2,2,3], k = 2```
+```Output: [1,2]```
+```Example 2:```
+
+```Input: nums = [1], k = 1```
+```Output: [1]```
