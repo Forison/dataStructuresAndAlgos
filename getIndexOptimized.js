@@ -9,4 +9,3 @@ function getIndicesOfItemWeights(arr, limit) {
   }
   return []
 }
-//[2, 7, 11, 15], 9
