@@ -312,3 +312,8 @@ Node.val is unique for each node.
 Number of Nodes will not exceed 100.
 There is no repeated edges and no self-loops in the graph.
 The Graph is connected and all nodes can be visited starting from the given node.
+
+### How to print numbers in words
+
+How to print given Number in word(Example: 9995 should be printed like "Nine Thousand Nine Hundred ninety five")
+
